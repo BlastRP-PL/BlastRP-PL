@@ -25,6 +25,9 @@ Bądź na bieżąco z nowościami i dołącz do społeczności BlastRP!
 
 Jeśli jesteś developerem, grafikiem lub pasjonatem RP i chcesz współtworzyć coś wyjątkowego — napisz do nas na Discordzie!
 
+### Umiejętności których szukamy:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,php,lua,cs,mysql,git,blender,ai,ps,pr&perline=3)](https://skillicons.dev)
+
 ---
 
 Dziękujemy za odwiedziny — dołącz do świata BlastRP już dziś!
