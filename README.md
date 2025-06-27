@@ -17,7 +17,7 @@ Bądź na bieżąco z nowościami i dołącz do społeczności BlastRP!
 - 🌐 [Strona internetowa](https://www.blastrp.pl)
 - 🎥 [TikTok](https://tiktok.blastrp.pl/)
 - 📸 [Instagram](https://instagram.blastrp.pl/)
-- [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev) [Twitter / X](https://twitter.blastrp.pl/)
+- 🐦 [Twitter / X](https://twitter.blastrp.pl/)
 - ▶️ [YouTube](https://youtube.blastrp.pl/)
 - 💬 [Discord](https://discord.blastrp.pl/)
 
