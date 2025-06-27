@@ -1,4 +1,4 @@
-# 🚀 BlastRP - Realistyczny Serwer Roleplay
+# 🚀 BlastRP - Jedynie miasto, które świeci nocą!
 
 Witaj na oficjalnym profilu GitHub serwera **BlastRP** – jednego z najbardziej dynamicznych i immersyjnych serwerów RolePlay w Polsce. Naszym celem jest zapewnienie najwyższej jakości rozgrywki w realistycznym, dopracowanym świecie, który tworzymy wspólnie z naszą społecznością.
 
@@ -15,19 +15,11 @@ BlastRP to pasja do roleplayu przeniesiona na wyższy poziom. Oferujemy:
 Bądź na bieżąco z nowościami i dołącz do społeczności BlastRP!
 
 - 🌐 [Strona internetowa](https://www.blastrp.pl)
-- 🎥 [TikTok](https://www.tiktok.com/@blastrp)
-- 📸 [Instagram](https://www.instagram.com/blastrp)
-- 🐦 [Twitter / X](https://twitter.com/blastrp)
-- ▶️ [YouTube](https://www.youtube.com/@blastrp)
-- 💬 [Discord](https://discord.gg/blastrp)
-
-## 🔧 Co znajdziesz na tym profilu?
-
-Tutaj znajdziesz otwarte projekty, które rozwijamy w ramach BlastRP, takie jak:
-- Skrypty pomocnicze
-- Dokumentacja API
-- Wzory raportów lub formularzy
-- Przykładowe zasoby i frameworki
+- 🎥 [TikTok](https://tiktok.blastrp.pl/)
+- 📸 [Instagram](https://instagram.blastrp.pl/)
+- 🐦 [Twitter / X](https://twitter.blastrp.pl/)
+- ▶️ [YouTube](https://youtube.blastrp.pl/)
+- 💬 [Discord](https://discord.blastrp.pl/)
 
 ## 🤝 Współpraca
 
